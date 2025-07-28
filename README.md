@@ -54,13 +54,7 @@ To implement and explain a **Stacked LSTM neural network** for predicting future
    * Train the model and monitor loss
    * Visualize predicted vs actual prices
 
----
 
-### 📈 Example Output
-
-> *(Include a screenshot here showing the line plot of predicted vs actual closing prices for AAPL)*
-
----
 
 ### 🚀 How to Run This Notebook
 
